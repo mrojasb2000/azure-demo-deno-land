@@ -598,3 +598,8 @@ $ az webapp config set --name demo-deno --resource-group deno-quickstart --start
   "xManagedServiceIdentityId": null
 }
 ```
+
+## Clean recources
+```
+$ az group delete --resource-group deno-quickstart
+```
