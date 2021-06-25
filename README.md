@@ -603,3 +603,8 @@ $ az webapp config set --name demo-deno --resource-group deno-quickstart --start
 ```
 $ az group delete --resource-group deno-quickstart
 ```
+
+## Azure Debuger console
+```
+browser: https://demo-deno.scm.azurewebsites.net/DebugConsole
+```
